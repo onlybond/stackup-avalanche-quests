@@ -1,0 +1,22 @@
+======== Generating Sender keys ========
+{
+  address: 'X-fuji1rp38ewd4x75l8q8rfgsn2lelkfycs2mu00zprl',
+  publicKey: '7NXJvCrvQnpP4cGC3Am5kLeXVJrsevx2MByJ3zkegX5zPfvxtT',
+  privateKey: 'PrivateKey-mLnjWPAmdTkxkU7SQbjPdPHbLUUPeT48HS3YQK7XzTJPLESYT'
+}
+==========================================
+======== Generating Receiver keys ========
+{
+  address: 'X-fuji1sv92muyh54gvwkp6lpq6y47umvwen6wruscukr',
+  publicKey: '6USy3aQ7JYrXjmdLuoxuhAfyqhi5RgSvTpJ4S26ckTJbnSqiY2',
+  privateKey: 'PrivateKey-8gYJHzZsnsTngpfxfHPpD8hKqpXLUJdkP6mzonFMd4w8MrALK'
+}
+============================================
+
+
+
+Your eyes are like clouds for even when they fill with sorrow and drown the land, they paint the sky with unimaginable beauty
+
+They talk about how beautiful those flowers are , but they haven't seen the flowers that bloom inside my head every time i catchh a glimpse of yours
+
+If i were to kiss you and go to hell i would. So then i can brag the devil's that i saw heaven without even entering it
